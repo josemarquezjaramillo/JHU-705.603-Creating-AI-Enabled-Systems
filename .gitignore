@@ -1,0 +1,25 @@
+/venv/
+/.idea/
+/fraud_detection_system/.idea/
+/fraud_detection_system/.ipynb_checkpoints/
+/fraud_detection_system/analysis/.ipynb_checkpoints/
+/fraud_detection_system/data/transaction_2.json
+/fraud_detection_system/data/transactions_0.csv
+/fraud_detection_system/data/transactions_1.parquet
+/fraud_detection_system/__pycache__
+/fraud_detection_system/__pycache__/
+/object_detection_system/ods_venv
+/student-resources/
+/object_detection_system/__pycache__
+/object_detection_system/__pycache__/Welcome file
+Welcome file
+
+.idea/
+/visual_search_system/vs_venv/
+/visual_search_system/storage/gallery
+/visual_search_system/simclr_resources/probes
+/retrieval_augmented_generation/rag_venv
+/retrieval_augmented_generation/storage/
+/retrieval_augmented_generation/__pycache__/
+
+/student-resources/*
